@@ -9,7 +9,7 @@ test.beforeAll('beforeAll hook', async ({ request }) => {
     data: {
       user: {
         email: 'rupadevi.aila@gmail.com',
-        password: 'Test1@gmail1'
+        password: 'Test@gmail1'
       }
     }
   })
